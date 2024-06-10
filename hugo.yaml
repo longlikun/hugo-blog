@@ -1,4 +1,4 @@
-baseurl: https://github.i5h5.cn
+baseurl: https://github.i5h5.cn/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
@@ -26,13 +26,6 @@ languages:
         weight: 2
         params:
             description: 演示说明
-    # ar:
-    #     languageName: عربي
-    #     languagedirection: rtl
-    #     title: موقع تجريبي
-    #     weight: 3
-    #     params:
-    #         description: وصف تجريبي
 
 services:
     # Change it to your Disqus shortname before using
